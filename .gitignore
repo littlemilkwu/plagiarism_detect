@@ -1,0 +1,9 @@
+**/.DS_Store
+**/config.py
+__pycache__/
+*.py[cod]
+.env
+
+1112_H210301*
+test_folder
+report.html
